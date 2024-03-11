@@ -1,0 +1,11 @@
+{
+  "Navigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "TravelImagery": {
+    "description": "Auto imported from components/TravelImagery.vue"
+  },
+  "WinterMap": {
+    "description": "Auto imported from components/winterMap.vue"
+  }
+}

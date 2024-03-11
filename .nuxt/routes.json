@@ -1,0 +1,26 @@
+[
+  {
+    "name": "activities",
+    "path": "/activities",
+    "component": "/Users/neil/chill-wa/chill-wa/pages/activities.vue",
+    "chunkName": "pages/activities"
+  },
+  {
+    "name": "safety",
+    "path": "/safety",
+    "component": "/Users/neil/chill-wa/chill-wa/pages/safety.vue",
+    "chunkName": "pages/safety"
+  },
+  {
+    "name": "travel",
+    "path": "/travel",
+    "component": "/Users/neil/chill-wa/chill-wa/pages/travel.vue",
+    "chunkName": "pages/travel"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/neil/chill-wa/chill-wa/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
